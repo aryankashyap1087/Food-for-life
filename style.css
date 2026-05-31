@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    font-weight: normal;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+*{
+    color:black
+}
+h2 {
+    color:darkred;
+    text-align:center;
+    background-color: black;
+}
+h3{
+    color: darkblue;
+}
+#example{
+    color: chocolate;
+}
+h1 {
+    background-color:white;
+    text-align: center;
+}
